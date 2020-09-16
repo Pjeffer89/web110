@@ -1,0 +1,50 @@
+
+h1
+{
+  text-align: center;
+  font-family: helvetica, sans-serif;
+  color: black;
+  background-color: RGB(100,84,84);
+  font-size: 400%;
+}
+
+h2
+{
+  text-align: center;
+  font-family: helvetica, sans-serif;
+  color: black;
+  background-color: RGB(100,84,84);
+  font-size: 200%;
+}
+
+h6
+{
+  font-family: helvetica, sans-serif;
+}
+
+body
+{
+  font-family: helvetica, sans-serif;
+  color: black;
+  background-color: RGB(100,84,84);
+  font-size: 130%
+}
+
+nav{
+  text-align: center;
+}
+
+li:not(:last-child) {
+margin-bottom: 1rem;
+}
+
+img{
+  max-width:100%;
+  height:auto;
+}
+
+
+footer
+{
+  font-size: 80%
+}
