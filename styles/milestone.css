@@ -1,0 +1,72 @@
+body {
+  background-image: url(http://students.cpcc.edu/~pjeffer1/web110/images/images/wood.jpg); 
+  margin-left: 40px;
+  margin-right: 40px;
+  }
+
+h1 {
+  color: #E8E4C9;
+  text-align: center;
+  font-family: Futura, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  }
+  
+img.espresso {
+  display: block;
+  margin: 0 auto;
+  border-radius: 30px;
+  }
+  
+h2 {
+  color: #E8E4C9;
+  font-size: 40px;
+  font-weight: bold; 
+  text-align: center;
+  font-family: Futura, Helvetica, sans-serif;
+}
+
+ul{
+  color: #E8E4C9;
+  font-family: Futura, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+
+.answer {
+  color: #E8E4C9;
+  font-family: Futura, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 70px;
+}
+
+.smaller {
+  color: #E8E4C9;
+  font-family: Futura, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin-left: 70px;
+}
+
+nav {
+  margin-left: 70px;
+  padding-bottom: 80px;
+  font-family: Futura, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+footer {
+  color: #E8E4C9;
+  font-family: Futura, Helvetica, sans-serif;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+a {
+  color: #E8E4C9;
+}
+a:hover {
+  color: white;
+}
