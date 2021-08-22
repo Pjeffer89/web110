@@ -2,12 +2,12 @@ body {
   background-image: url(http://students.cpcc.edu/~pjeffer1/web110/images/images/wood.jpg);
   }
 @font-face {
-    font-family: snellroundhand;
-    src: url("snellroundhand.otf") format("opentype");
+  font-family: snellroundhand;
+  src: url("snellroundhand.otf") format("opentype");
 }
 @font-face {
-    font-family: Futura;
-    src: url("Futura.ttf") format("opentype");
+  font-family: Futura;
+  src: url("Futura.ttf") format("opentype");
 }
 h1, a.banner {
   color: #E8E4C9;
